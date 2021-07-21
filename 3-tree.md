@@ -392,4 +392,4 @@ __Hint:__ Try to read and understand the code in the template and our examples, 
 You can check your code with the solution here: [Solution](solution-tree.py)
 
 
-[Back to Welcome Page](0-welcome.md)
+[Back to Welcome Page](README.md)

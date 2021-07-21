@@ -215,4 +215,4 @@ To solve this there are a few requierements must be followed:
 
 You can check your code with the solution here: [Solution](solution-set.py)
 
-[Back to Welcome Page](0-welcome.md)
+[Back to Welcome Page](README.md)
